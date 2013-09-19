@@ -1,0 +1,474 @@
+==========================================
+=========Started to connect with ftp server========
+connect with server ==> ftp.iprepublic.com
+login with server using username and password 
+login with server passive mode 
+Successfully logged in to the server ==> ftp.iprepublic.com
+Started to enter folder ==> PR
+Successfully entered into the folder ==> PR
+Started to retrieve the files from folder ==> PR
+Successfully got the files from folder ==> PR
+Started to move file AC2_DailyTraffic_01012012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01012012.csv
+Started to move file AC2_DailyTraffic_01012013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01012013.csv
+Started to move file AC2_DailyTraffic_01022012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01022012.csv
+Started to move file AC2_DailyTraffic_01022013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01022013.csv
+Started to move file AC2_DailyTraffic_01032012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01032012.csv
+Started to move file AC2_DailyTraffic_01032013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01032013.csv
+Started to move file AC2_DailyTraffic_01042012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01042012.csv
+Started to move file AC2_DailyTraffic_01042013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01042013.csv
+Started to move file AC2_DailyTraffic_01052012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01052012.csv
+Started to move file AC2_DailyTraffic_01052013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01052013.csv
+Started to move file AC2_DailyTraffic_01062012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01062012.csv
+Started to move file AC2_DailyTraffic_01062013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01062013.csv
+Started to move file AC2_DailyTraffic_01072012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01072012.csv
+Started to move file AC2_DailyTraffic_01072013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01072013.csv
+Started to move file AC2_DailyTraffic_01082012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01082012.csv
+Started to move file AC2_DailyTraffic_01082013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01082013.csv
+Started to move file AC2_DailyTraffic_01092012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01092012.csv
+Started to move file AC2_DailyTraffic_01092013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01092013.csv
+Started to move file AC2_DailyTraffic_01102012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01102012.csv
+Started to move file AC2_DailyTraffic_01102013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01102013.csv
+Started to move file AC2_DailyTraffic_01112012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01112012.csv
+Started to move file AC2_DailyTraffic_01112013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01112013.csv
+Started to move file AC2_DailyTraffic_01122012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01122012.csv
+Started to move file AC2_DailyTraffic_01122013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01122013.csv
+Started to move file AC2_DailyTraffic_01132012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01132012.csv
+Started to move file AC2_DailyTraffic_01132013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01132013.csv
+Started to move file AC2_DailyTraffic_01142012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01142012.csv
+Started to move file AC2_DailyTraffic_01142013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01142013.csv
+Started to move file AC2_DailyTraffic_01152012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01152012.csv
+Started to move file AC2_DailyTraffic_01152013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01152013.csv
+Started to move file AC2_DailyTraffic_01162012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01162012.csv
+Started to move file AC2_DailyTraffic_01162013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01162013.csv
+Started to move file AC2_DailyTraffic_01172012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01172012.csv
+Started to move file AC2_DailyTraffic_01172013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01172013.csv
+Started to move file AC2_DailyTraffic_01182012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01182012.csv
+Started to move file AC2_DailyTraffic_01182013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01182013.csv
+Started to move file AC2_DailyTraffic_01192012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01192012.csv
+Started to move file AC2_DailyTraffic_01192013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01192013.csv
+Started to move file AC2_DailyTraffic_01202012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01202012.csv
+Started to move file AC2_DailyTraffic_01202013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01202013.csv
+Started to move file AC2_DailyTraffic_01212012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01212012.csv
+Started to move file AC2_DailyTraffic_01212013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01212013.csv
+Started to move file AC2_DailyTraffic_01222012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01222012.csv
+Started to move file AC2_DailyTraffic_01222013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01222013.csv
+Started to move file AC2_DailyTraffic_01232012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01232012.csv
+Started to move file AC2_DailyTraffic_01232013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01232013.csv
+Started to move file AC2_DailyTraffic_01242012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01242012.csv
+Started to move file AC2_DailyTraffic_01242013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01242013.csv
+Started to move file AC2_DailyTraffic_01252012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01252012.csv
+Started to move file AC2_DailyTraffic_01252013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01252013.csv
+Started to move file AC2_DailyTraffic_01262012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01262012.csv
+Started to move file AC2_DailyTraffic_01262013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01262013.csv
+Started to move file AC2_DailyTraffic_01272012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01272012.csv
+Started to move file AC2_DailyTraffic_01272013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01272013.csv
+Started to move file AC2_DailyTraffic_01282012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01282012.csv
+Started to move file AC2_DailyTraffic_01282013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01282013.csv
+Started to move file AC2_DailyTraffic_01292012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01292012.csv
+Started to move file AC2_DailyTraffic_01292013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01292013.csv
+Started to move file AC2_DailyTraffic_01302012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01302012.csv
+Started to move file AC2_DailyTraffic_01302013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01302013.csv
+Started to move file AC2_DailyTraffic_01312012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01312012.csv
+Started to move file AC2_DailyTraffic_01312013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01312013.csv
+Started to move file AC2_DailyTraffic_02012012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02012012.csv
+Started to move file AC2_DailyTraffic_02012013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02012013.csv
+Started to move file AC2_DailyTraffic_02022012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02022012.csv
+Started to move file AC2_DailyTraffic_02022013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02022013.csv
+Started to move file AC2_DailyTraffic_02032012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02032012.csv
+Started to move file AC2_DailyTraffic_02032013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02032013.csv
+Started to move file AC2_DailyTraffic_02042012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02042012.csv
+Started to move file AC2_DailyTraffic_02042013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02042013.csv
+Started to move file AC2_DailyTraffic_02052012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02052012.csv
+Started to move file AC2_DailyTraffic_02052013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02052013.csv
+Started to move file AC2_DailyTraffic_02062012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02062012.csv
+Started to move file AC2_DailyTraffic_02062013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02062013.csv
+Started to move file AC2_DailyTraffic_02072012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02072012.csv
+Started to move file AC2_DailyTraffic_02072013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02072013.csv
+Started to move file AC2_DailyTraffic_02082012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02082012.csv
+Started to move file AC2_DailyTraffic_02082013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02082013.csv
+Started to move file AC2_DailyTraffic_02092012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02092012.csv
+Started to move file AC2_DailyTraffic_02092013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02092013.csv
+Started to move file AC2_DailyTraffic_02102012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02102012.csv
+Started to move file AC2_DailyTraffic_02102013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02102013.csv
+Started to move file AC2_DailyTraffic_02112012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02112012.csv
+Started to move file AC2_DailyTraffic_02112013.csv from the folder ==> PR
+Error occured while move the file to local ==> AC2_DailyTraffic_02112013.csv
+Started to move file AC2_DailyTraffic_02122012.csv from the folder ==> PR
+Error occured while move the file to local ==> AC2_DailyTraffic_02122012.csv
+Started to move file AC2_DailyTraffic_02122013.csv from the folder ==> PR
+Error occured while move the file to local ==> AC2_DailyTraffic_02122013.csv
+Started to move file AC2_DailyTraffic_02132012.csv from the folder ==> PR
+Error occured while move the file to local ==> AC2_DailyTraffic_02132012.csv
+Started to move file AC2_DailyTraffic_02132013.csv from the folder ==> PR
+Error occured while move the file to local ==> AC2_DailyTraffic_02132013.csv
+Started to move file AC2_DailyTraffic_02142012.csv from the folder ==> PR
+Error occured while move the file to local ==> AC2_DailyTraffic_02142012.csv
+Started to move file AC2_DailyTraffic_02142013.csv from the folder ==> PR
+Error occured while move the file to local ==> AC2_DailyTraffic_02142013.csv
+Started to move file AC2_DailyTraffic_02152012.csv from the folder ==> PR
+Error occured while move the file to local ==> AC2_DailyTraffic_02152012.csv
+Started to move file AC2_DailyTraffic_02152013.csv from the folder ==> PR
+Error occured while move the file to local ==> AC2_DailyTraffic_02152013.csv
+Started to move file AC2_DailyTraffic_02162012.csv from the folder ==> PR
+Error occured while move the file to local ==> AC2_DailyTraffic_02162012.csv
+Started to move file AC2_DailyTraffic_02162013.csv from the folder ==> PR
+Error occured while move the file to local ==> AC2_DailyTraffic_02162013.csv
+Started to move file AC2_DailyTraffic_02172012.csv from the folder ==> PR
+Error occured while move the file to local ==> AC2_DailyTraffic_02172012.csv
+Started to move file AC2_DailyTraffic_02172013.csv from the folder ==> PR
+Error occured while move the file to local ==> AC2_DailyTraffic_02172013.csv
+Started to move file AC2_DailyTraffic_02182012.csv from the folder ==> PR
+Error occured while move the file to local ==> AC2_DailyTraffic_02182012.csv
+==========================================
+=========Started to connect with ftp server========
+connect with server ==> ftp.iprepublic.com
+login with server using username and password 
+login with server passive mode 
+Successfully logged in to the server ==> ftp.iprepublic.com
+Started to enter folder ==> PR
+Successfully entered into the folder ==> PR
+Started to retrieve the files from folder ==> PR
+Successfully got the files from folder ==> PR
+Started to move file AC2_DailyTraffic_01012012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01012012.csv
+Started to move file AC2_DailyTraffic_01012013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01012013.csv
+Started to move file AC2_DailyTraffic_01022012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01022012.csv
+Started to move file AC2_DailyTraffic_01022013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01022013.csv
+Started to move file AC2_DailyTraffic_01032012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01032012.csv
+Started to move file AC2_DailyTraffic_01032013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01032013.csv
+Started to move file AC2_DailyTraffic_01042012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01042012.csv
+Started to move file AC2_DailyTraffic_01042013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01042013.csv
+Started to move file AC2_DailyTraffic_01052012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01052012.csv
+Started to move file AC2_DailyTraffic_01052013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01052013.csv
+Started to move file AC2_DailyTraffic_01062012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01062012.csv
+Started to move file AC2_DailyTraffic_01062013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01062013.csv
+Started to move file AC2_DailyTraffic_01072012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01072012.csv
+Started to move file AC2_DailyTraffic_01072013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01072013.csv
+Started to move file AC2_DailyTraffic_01082012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01082012.csv
+Started to move file AC2_DailyTraffic_01082013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01082013.csv
+Started to move file AC2_DailyTraffic_01092012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01092012.csv
+Started to move file AC2_DailyTraffic_01092013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01092013.csv
+Started to move file AC2_DailyTraffic_01102012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01102012.csv
+Started to move file AC2_DailyTraffic_01102013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01102013.csv
+Started to move file AC2_DailyTraffic_01112012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01112012.csv
+Started to move file AC2_DailyTraffic_01112013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01112013.csv
+Started to move file AC2_DailyTraffic_01122012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01122012.csv
+Started to move file AC2_DailyTraffic_01122013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01122013.csv
+Started to move file AC2_DailyTraffic_01132012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01132012.csv
+Started to move file AC2_DailyTraffic_01132013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01132013.csv
+Started to move file AC2_DailyTraffic_01142012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01142012.csv
+Started to move file AC2_DailyTraffic_01142013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01142013.csv
+Started to move file AC2_DailyTraffic_01152012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01152012.csv
+Started to move file AC2_DailyTraffic_01152013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01152013.csv
+Started to move file AC2_DailyTraffic_01162012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01162012.csv
+Started to move file AC2_DailyTraffic_01162013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01162013.csv
+Started to move file AC2_DailyTraffic_01172012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01172012.csv
+Started to move file AC2_DailyTraffic_01172013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01172013.csv
+Started to move file AC2_DailyTraffic_01182012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01182012.csv
+Started to move file AC2_DailyTraffic_01182013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01182013.csv
+Started to move file AC2_DailyTraffic_01192012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01192012.csv
+Started to move file AC2_DailyTraffic_01192013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01192013.csv
+Started to move file AC2_DailyTraffic_01202012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01202012.csv
+Started to move file AC2_DailyTraffic_01202013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01202013.csv
+Started to move file AC2_DailyTraffic_01212012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01212012.csv
+Started to move file AC2_DailyTraffic_01212013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01212013.csv
+Started to move file AC2_DailyTraffic_01222012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01222012.csv
+Started to move file AC2_DailyTraffic_01222013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01222013.csv
+Started to move file AC2_DailyTraffic_01232012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01232012.csv
+Started to move file AC2_DailyTraffic_01232013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01232013.csv
+Started to move file AC2_DailyTraffic_01242012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01242012.csv
+Started to move file AC2_DailyTraffic_01242013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01242013.csv
+Started to move file AC2_DailyTraffic_01252012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01252012.csv
+Started to move file AC2_DailyTraffic_01252013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01252013.csv
+Started to move file AC2_DailyTraffic_01262012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01262012.csv
+Started to move file AC2_DailyTraffic_01262013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01262013.csv
+Started to move file AC2_DailyTraffic_01272012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01272012.csv
+Started to move file AC2_DailyTraffic_01272013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01272013.csv
+Started to move file AC2_DailyTraffic_01282012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01282012.csv
+Started to move file AC2_DailyTraffic_01282013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01282013.csv
+Started to move file AC2_DailyTraffic_01292012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01292012.csv
+Started to move file AC2_DailyTraffic_01292013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01292013.csv
+Started to move file AC2_DailyTraffic_01302012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01302012.csv
+Started to move file AC2_DailyTraffic_01302013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01302013.csv
+Started to move file AC2_DailyTraffic_01312012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01312012.csv
+Started to move file AC2_DailyTraffic_01312013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_01312013.csv
+Started to move file AC2_DailyTraffic_02012012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02012012.csv
+Started to move file AC2_DailyTraffic_02012013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02012013.csv
+Started to move file AC2_DailyTraffic_02022012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02022012.csv
+Started to move file AC2_DailyTraffic_02022013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02022013.csv
+Started to move file AC2_DailyTraffic_02032012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02032012.csv
+Started to move file AC2_DailyTraffic_02032013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02032013.csv
+Started to move file AC2_DailyTraffic_02042012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02042012.csv
+Started to move file AC2_DailyTraffic_02042013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02042013.csv
+Started to move file AC2_DailyTraffic_02052012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02052012.csv
+Started to move file AC2_DailyTraffic_02052013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02052013.csv
+Started to move file AC2_DailyTraffic_02062012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02062012.csv
+Started to move file AC2_DailyTraffic_02062013.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02062013.csv
+Started to move file AC2_DailyTraffic_02072012.csv from the folder ==> PR
+Successfully moved the file to local ==> AC2_DailyTraffic_02072012.csv
+Started to move file AC2_DailyTraffic_02072013.csv from the folder ==> PR
+Error occured while move the file to local ==> AC2_DailyTraffic_02072013.csv
+Started to move file AC2_DailyTraffic_02082012.csv from the folder ==> PR
+Error occured while move the file to local ==> AC2_DailyTraffic_02082012.csv
+Started to move file AC2_DailyTraffic_02082013.csv from the folder ==> PR
+Error occured while move the file to local ==> AC2_DailyTraffic_02082013.csv
+Started to move file AC2_DailyTraffic_02092012.csv from the folder ==> PR
+Error occured while move the file to local ==> AC2_DailyTraffic_02092012.csv
+Started to move file AC2_DailyTraffic_02092013.csv from the folder ==> PR
+Error occured while move the file to local ==> AC2_DailyTraffic_02092013.csv
+Started to move file AC2_DailyTraffic_02102012.csv from the folder ==> PR
+Error occured while move the file to local ==> AC2_DailyTraffic_02102012.csv
+Started to move file AC2_DailyTraffic_02102013.csv from the folder ==> PR
+Error occured while move the file to local ==> AC2_DailyTraffic_02102013.csv
+Started to move file AC2_DailyTraffic_02112012.csv from the folder ==> PR
+Error occured while move the file to local ==> AC2_DailyTraffic_02112012.csv
+Started to move file AC2_DailyTraffic_02112013.csv from the folder ==> PR
+Error occured while move the file to local ==> AC2_DailyTraffic_02112013.csv
+==========================================
+=========Started to connect with ftp server========
+connect with server ==> ftp.iprepublic.com
+login with server using username and password 
+login with server passive mode 
+Successfully logged in to the server ==> ftp.iprepublic.com
+Started to enter folder ==> PR1
+Successfully entered into the folder ==> PR1
+Started to retrieve the files from folder ==> PR1
+Successfully got the files from folder ==> PR1
+Started to move file AC_DailyTraffic_12292012.csv from the folder ==> PR1
+Successfully moved the file to local ==> AC_DailyTraffic_12292012.csv
+Started to move file AC_DailyTraffic_12302012.csv from the folder ==> PR1
+Successfully moved the file to local ==> AC_DailyTraffic_12302012.csv
+Started to move file AC_DailyTraffic_12312011.csv from the folder ==> PR1
+Successfully moved the file to local ==> AC_DailyTraffic_12312011.csv
+Started to move file AC_DailyTraffic_12312012.csv from the folder ==> PR1
+Successfully moved the file to local ==> AC_DailyTraffic_12312012.csv
+Started to move file AC_DailyTraffic_12312022.csv from the folder ==> PR1
+Successfully moved the file to local ==> AC_DailyTraffic_12312022.csv
+Finished the reading of files from folder ==> PR1
+Started to change dir to original 
+Successfully changed the dir to original 
+Starting to send mail for successfully download
+Success Mail has been successfully send to following user prahathese.shenll@gmail.com***ayyappan.shenll@gmail.com
+Started to enter folder ==> GC1
+Successfully entered into the folder ==> GC1
+Started to retrieve the files from folder ==> GC1
+Successfully got the files from folder ==> GC1
+Started to move file B1304171.dat from the folder ==> GC1
+Successfully moved the file to local ==> B1304171.dat
+Started to move file B1304181.dat from the folder ==> GC1
+Successfully moved the file to local ==> B1304181.dat
+Started to move file B1304191.dat from the folder ==> GC1
+Successfully moved the file to local ==> B1304191.dat
+Started to move file B1304221.dat from the folder ==> GC1
+Successfully moved the file to local ==> B1304221.dat
+Started to move file B1304231.dat from the folder ==> GC1
+Successfully moved the file to local ==> B1304231.dat
+Finished the reading of files from folder ==> GC1
+Started to change dir to original 
+Successfully changed the dir to original 
+Starting to send mail for successfully download
+Success Mail has been successfully send to following user prahathese.shenll@gmail.com***ayyappan.shenll@gmail.com
+Started to enter folder ==> IC1
+Successfully entered into the folder ==> IC1
+Started to retrieve the files from folder ==> IC1
+Successfully got the files from folder ==> IC1
+Started to move file AC_DailyTraffic_12292012.csv from the folder ==> IC1
+Successfully moved the file to local ==> AC_DailyTraffic_12292012.csv
+Started to move file AC_DailyTraffic_12302012.csv from the folder ==> IC1
+Successfully moved the file to local ==> AC_DailyTraffic_12302012.csv
+Started to move file B1304171.dat from the folder ==> IC1
+Successfully moved the file to local ==> B1304171.dat
+Started to move file B1304181.dat from the folder ==> IC1
+Successfully moved the file to local ==> B1304181.dat
+Finished the reading of files from folder ==> IC1
+Started to change dir to original 
+Successfully changed the dir to original 
+Starting to send mail for successfully download
+Success Mail has been successfully send to following user prahathese.shenll@gmail.com***ayyappan.shenll@gmail.com
+=========FTP server connection ended with ftp.iprepublic.com========
+==========================================
+==========================================
+=========Started to connect with ftp server========
+connect with server ==> ftp.iprepublic.com
+login with server using username and password 
+login with server passive mode 
+Successfully logged in to the server ==> ftp.iprepublic.com
+Started to enter folder ==> PR1
+Successfully entered into the folder ==> PR1
+Started to retrieve the files from folder ==> PR1
+Successfully got the files from folder ==> PR1
+Finished the reading of files from folder ==> PR1
+Started to change dir to original 
+Successfully changed the dir to original 
+Started to enter folder ==> GC1
+Successfully entered into the folder ==> GC1
+Started to retrieve the files from folder ==> GC1
+Successfully got the files from folder ==> GC1
+Finished the reading of files from folder ==> GC1
+Started to change dir to original 
+Successfully changed the dir to original 
+Started to enter folder ==> IC1
+Successfully entered into the folder ==> IC1
+Started to retrieve the files from folder ==> IC1
+Successfully got the files from folder ==> IC1
+Finished the reading of files from folder ==> IC1
+Started to change dir to original 
+Successfully changed the dir to original 
+=========FTP server connection ended with ftp.iprepublic.com========
+==========================================
