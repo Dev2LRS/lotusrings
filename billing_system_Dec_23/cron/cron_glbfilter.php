@@ -193,7 +193,7 @@ while($get_brg_arr=mysql_fetch_assoc($sel_brg)){
 
 
 		if($key=='bridge_id'){
-			if($each_brg_cell=='AR-WEB' || $each_brg_cell=='AR-REC'){
+			if($each_brg_cell=='AR-WEB' || $each_brg_cell=='AR-REC' || $each_brg_cell=='AR-ARC'){
 				$each_brg_cell=preg_replace('/[^A-Z]/', '', $each_brg_cell); 
 				$final_brg[$key]=$each_brg_cell;
 				$error_brg[$key][]=func_error_code(7);
@@ -237,14 +237,37 @@ while($get_brg_arr=mysql_fetch_assoc($sel_brg)){
 		}else 
 			$final_brg[$key]=$each_brg_cell;
 
-
+		if($key=='bridge_type'){
+			$chk_bn_rec=mysql_query("select * from tbl_bridge_raw where master_id='".$get_brg_arr["master_id"]."' and start_time='".$get_brg_arr["start_time"]."' and end_time='".$get_brg_arr["end_time"]."' order by pk_bridge_id asc");
+			$rec_id=array();$rec_type=array();
+			if(mysql_num_rows($chk_bn_rec)>1){
+				while($bnrecarr=mysql_fetch_array($chk_bn_rec)){
+					$rec_type[]=$bnrecarr['bridge_type'];
+					$rec_id[]=$bnrecarr['pk_bridge_id'];
+				}
+				if($rec_id[0]==$get_brg_arr['pk_bridge_id']){
+					if($rec_type[0]!='b'){
+						$final_brg[$key]='b';
+						$status_brg["bridge_type"][]=func_status(1);
+					}
+				}else if($rec_id[1]==$get_brg_arr['pk_bridge_id']){
+					if($rec_type[1]!='nb'){
+						$final_brg[$key]='nb';
+						$status_brg["bridge_type"][]=func_status(1);
+					}
+				}
+			}
+		}else 
+			$final_brg[$key]=$each_brg_cell;
 	}
 	
-	$chk_nb_qry=mysql_query("select * from tbl_bridge_raw where bridge_type='".$get_brg_arr["bridge_type"]."' and master_id='".$get_brg_arr["master_id"]."' and pk_bridge_id=".($get_brg_arr["pk_bridge_id"]-1));
+	/*$chk_nb_qry=mysql_query("select * from tbl_bridge_raw where bridge_type='".$get_brg_arr["bridge_type"]."' and master_id='".$get_brg_arr["master_id"]."' and pk_bridge_id=".($get_brg_arr["pk_bridge_id"]-1));
 			if(mysql_num_rows($chk_nb_qry)>0){
 				$status_brg["bridge_type"][]=func_status(2);
 			}
-	
+			*/
+
+		
 		
 		if(count($status_brg)>0)
 			$get_sts_brg=stat_to_arr($status_brg);
